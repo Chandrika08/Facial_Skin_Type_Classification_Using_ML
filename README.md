@@ -5,6 +5,10 @@ Overview:-
 This project aims to classify facial skin types (oily, dry, normal) using machine learning models. 
 Accurate skin type classification is essential for personalized skincare and dermatological treatments.
 
+Repository Structure:-
+
+The dataset used is uploaded in the repository. All code, including preprocessing, model training, and evaluation, is available in Colab notebook uploaded to the repository.
+
 Approach:-
 
 Data Collection: 
